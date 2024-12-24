@@ -1,0 +1,2 @@
+python scripts/demo.py --video_path data/game3/game3.mp4 --txt_path data/game3/game3.txt
+python scripts/demo.py --video_path data/game4/game4.mp4 --txt_path data/game4/game4.txt
