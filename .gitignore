@@ -163,7 +163,7 @@ visualization/*
 .DS_Store
 
 # .vsocde
-.vsocde/
+.vscode/
 
 # For Testing
 demo/
