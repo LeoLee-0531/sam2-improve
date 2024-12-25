@@ -162,5 +162,8 @@ visualization/*
 # .DS_Store
 .DS_Store
 
+# .vsocde
+.vsocde/
+
 # For Testing
 demo/
